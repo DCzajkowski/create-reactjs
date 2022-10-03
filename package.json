@@ -1,0 +1,7 @@
+{
+  "name": "create-reactjs",
+  "description": "React project starter",
+  "version": "0.0.0-alpha.0",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.3"
+}
